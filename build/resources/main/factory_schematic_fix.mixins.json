@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "pl.konstanty.factoryschematicfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ChainConveyorBlockEntityMixin",
+    "FactoryPanelBehaviourMixin",
+    "FactoryPanelBlockEntityMixin",
+    "FrogportBlockEntityMixin",
+    "SchematicAndQuillItemMixin",
+    "SmartBlockEntityMixin",
+    "SableSubLevelAssemblyHelperMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

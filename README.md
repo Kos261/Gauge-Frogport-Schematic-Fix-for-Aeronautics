@@ -1,6 +1,17 @@
-# Create Factory Schematic Fix
+# Gauge Frogport Schematic Fix for Aeronautics
 
-Small NeoForge addon for **Minecraft 1.21.1 + Create 6.0.10 + Aeronautics 1.3.2**.
+<p align="center">
+  <img src="assets/Schematic Fix.png"
+       alt="Gauge Frogport Schematic Fix"
+       height="256">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=for-the-badge&logo=minecraft">
+  <img src="https://img.shields.io/badge/NeoForge-21.1.250-EF6C00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Create-6.0.10-8B6F47?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Create_Aeronautics-1.3.2-4A90E2?style=for-the-badge">
+</p>
 
 ## What it fixes
 
